@@ -1,0 +1,12 @@
+C:\Users\0220481813006\Desktop\Teste_Project\Teste_Project\bin\Debug\Teste_Project.exe.config
+C:\Users\0220481813006\Desktop\Teste_Project\Teste_Project\bin\Debug\Teste_Project.exe
+C:\Users\0220481813006\Desktop\Teste_Project\Teste_Project\bin\Debug\Teste_Project.pdb
+C:\Users\0220481813006\Desktop\Teste_Project\Teste_Project\obj\Debug\Teste_Project.csprojResolveAssemblyReference.cache
+C:\Users\0220481813006\Desktop\Teste_Project\Teste_Project\obj\Debug\Teste_Project.exe
+C:\Users\0220481813006\Desktop\Teste_Project\Teste_Project\obj\Debug\Teste_Project.pdb
+C:\Users\FERNANDONOVACKIFREIT\Desktop\Cursos\Curso C#\Exercícios\Teste_Project\Teste_Project\bin\Debug\Teste_Project.exe.config
+C:\Users\FERNANDONOVACKIFREIT\Desktop\Cursos\Curso C#\Exercícios\Teste_Project\Teste_Project\bin\Debug\Teste_Project.exe
+C:\Users\FERNANDONOVACKIFREIT\Desktop\Cursos\Curso C#\Exercícios\Teste_Project\Teste_Project\bin\Debug\Teste_Project.pdb
+C:\Users\FERNANDONOVACKIFREIT\Desktop\Cursos\Curso C#\Exercícios\Teste_Project\Teste_Project\obj\Debug\Teste_Project.csprojAssemblyReference.cache
+C:\Users\FERNANDONOVACKIFREIT\Desktop\Cursos\Curso C#\Exercícios\Teste_Project\Teste_Project\obj\Debug\Teste_Project.exe
+C:\Users\FERNANDONOVACKIFREIT\Desktop\Cursos\Curso C#\Exercícios\Teste_Project\Teste_Project\obj\Debug\Teste_Project.pdb

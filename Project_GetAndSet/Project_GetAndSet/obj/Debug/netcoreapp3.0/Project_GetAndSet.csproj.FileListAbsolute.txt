@@ -1,0 +1,11 @@
+C:\Users\FERNANDONOVACKIFREIT\Desktop\Cursos\Curso C#\Exercícios\Project_GetAndSet\Project_GetAndSet\bin\Debug\netcoreapp3.0\Project_GetAndSet.exe
+C:\Users\FERNANDONOVACKIFREIT\Desktop\Cursos\Curso C#\Exercícios\Project_GetAndSet\Project_GetAndSet\bin\Debug\netcoreapp3.0\Project_GetAndSet.deps.json
+C:\Users\FERNANDONOVACKIFREIT\Desktop\Cursos\Curso C#\Exercícios\Project_GetAndSet\Project_GetAndSet\bin\Debug\netcoreapp3.0\Project_GetAndSet.runtimeconfig.json
+C:\Users\FERNANDONOVACKIFREIT\Desktop\Cursos\Curso C#\Exercícios\Project_GetAndSet\Project_GetAndSet\bin\Debug\netcoreapp3.0\Project_GetAndSet.runtimeconfig.dev.json
+C:\Users\FERNANDONOVACKIFREIT\Desktop\Cursos\Curso C#\Exercícios\Project_GetAndSet\Project_GetAndSet\bin\Debug\netcoreapp3.0\Project_GetAndSet.dll
+C:\Users\FERNANDONOVACKIFREIT\Desktop\Cursos\Curso C#\Exercícios\Project_GetAndSet\Project_GetAndSet\bin\Debug\netcoreapp3.0\Project_GetAndSet.pdb
+C:\Users\FERNANDONOVACKIFREIT\Desktop\Cursos\Curso C#\Exercícios\Project_GetAndSet\Project_GetAndSet\obj\Debug\netcoreapp3.0\Project_GetAndSet.csprojAssemblyReference.cache
+C:\Users\FERNANDONOVACKIFREIT\Desktop\Cursos\Curso C#\Exercícios\Project_GetAndSet\Project_GetAndSet\obj\Debug\netcoreapp3.0\Project_GetAndSet.AssemblyInfoInputs.cache
+C:\Users\FERNANDONOVACKIFREIT\Desktop\Cursos\Curso C#\Exercícios\Project_GetAndSet\Project_GetAndSet\obj\Debug\netcoreapp3.0\Project_GetAndSet.AssemblyInfo.cs
+C:\Users\FERNANDONOVACKIFREIT\Desktop\Cursos\Curso C#\Exercícios\Project_GetAndSet\Project_GetAndSet\obj\Debug\netcoreapp3.0\Project_GetAndSet.dll
+C:\Users\FERNANDONOVACKIFREIT\Desktop\Cursos\Curso C#\Exercícios\Project_GetAndSet\Project_GetAndSet\obj\Debug\netcoreapp3.0\Project_GetAndSet.pdb
