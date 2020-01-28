@@ -10,7 +10,7 @@ namespace OrderSummary.Entities
         public DateTime Moment { get; set; } = DateTime.Now;
         public OrderStatus Status { get; set; }
         public Client Client { get; set; }
-        public List<OrdemItem> Items { get; set; }
+        public List<OrderItem> Items { get; set; } = new List<OrderItem>();
 
         public Order() { }
 
@@ -21,12 +21,12 @@ namespace OrderSummary.Entities
             Client = client;
         }
 
-        public void AddItem(OrdemItem item)
+        public void AddItem(OrderItem item)
         {
             Items.Add(item);
         }
 
-        public void RemoveItem(OrdemItem item)
+        public void RemoveItem(OrderItem item)
         {
             Items.Remove(item);
         }
@@ -34,12 +34,43 @@ namespace OrderSummary.Entities
         public double Total()
         {
             double sum = 0;
-            foreach(OrdemItem item in Items)
+            foreach(OrderItem item in Items)
             {
                 sum += item.Price;
             }
 
             return sum;
         }
+
+        public override string ToString()
+        {
+            StringBuilder builder = new StringBuilder();
+            
+            builder.AppendLine("Order Summary: ");
+            builder.AppendLine("Order Moment: " + Moment);
+            builder.AppendLine("Order Status: " + Status);
+            builder.AppendLine("Client: " + Client);
+
+            builder.AppendLine("Order Itens: ");
+
+            double sum = 0;
+
+            Console.WriteLine();
+
+            foreach(OrderItem orderItem in Items)
+            {
+                sum += orderItem.SubTotal();
+
+                builder.AppendLine(orderItem.ToString());
+                
+            }
+
+            builder.AppendLine("Total Price: " + $"${sum}");
+            Console.WriteLine();
+
+            return builder.ToString();
+        }
+
+        
     }
 }

@@ -4,18 +4,18 @@ using System.Text;
 
 namespace OrderSummary.Entities.Enuns
 {
-    class OrdemItem
+    class OrderItem
     {
         public int Quantity { get; set; }
         public double Price { get; set; }
         public Product Product { get; set; }
 
-        public OrdemItem()
+        public OrderItem()
         {
 
         }
 
-        public OrdemItem(int quantity, double price, Product product)
+        public OrderItem(int quantity, double price, Product product)
         {
             Quantity = quantity;
             Price = price;
@@ -25,6 +25,13 @@ namespace OrderSummary.Entities.Enuns
         public double SubTotal()
         {
             return Quantity * Price; 
+        }
+
+        public override string ToString()
+        {
+            return Product + " , " +
+                "Quantity:" + Quantity +
+                " , " + "Subtotal: " + $"${SubTotal()}";
         }
     }
 }

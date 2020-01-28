@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Text;
 
 namespace OrderSummary.Entities
@@ -17,6 +16,11 @@ namespace OrderSummary.Entities
             Name = name;
             Email = email;
             BirthDate = birthDate;
+        }
+
+        public override string ToString()
+        {
+            return Name +" - "+$"({BirthDate})"+" - "+ Email;
         }
     }
 }

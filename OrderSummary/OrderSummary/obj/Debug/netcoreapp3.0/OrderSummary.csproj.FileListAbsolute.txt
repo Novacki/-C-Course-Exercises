@@ -1,0 +1,11 @@
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\OrderSummary\OrderSummary\bin\Debug\netcoreapp3.0\OrderSummary.exe
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\OrderSummary\OrderSummary\bin\Debug\netcoreapp3.0\OrderSummary.deps.json
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\OrderSummary\OrderSummary\bin\Debug\netcoreapp3.0\OrderSummary.runtimeconfig.json
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\OrderSummary\OrderSummary\bin\Debug\netcoreapp3.0\OrderSummary.runtimeconfig.dev.json
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\OrderSummary\OrderSummary\bin\Debug\netcoreapp3.0\OrderSummary.dll
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\OrderSummary\OrderSummary\bin\Debug\netcoreapp3.0\OrderSummary.pdb
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\OrderSummary\OrderSummary\obj\Debug\netcoreapp3.0\OrderSummary.csprojAssemblyReference.cache
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\OrderSummary\OrderSummary\obj\Debug\netcoreapp3.0\OrderSummary.AssemblyInfoInputs.cache
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\OrderSummary\OrderSummary\obj\Debug\netcoreapp3.0\OrderSummary.AssemblyInfo.cs
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\OrderSummary\OrderSummary\obj\Debug\netcoreapp3.0\OrderSummary.dll
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\OrderSummary\OrderSummary\obj\Debug\netcoreapp3.0\OrderSummary.pdb

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FERNANDONOVACKIFREIT\\Desktop\\Cursos\\Curso C#\\Exercícios\\OrderSummary\\OrderSummary\\OrderSummary.csproj": {}
+    "C:\\Users\\fernando.freitas\\Desktop\\Estágio - Estudos\\C#\\-C-Course-Exercises\\OrderSummary\\OrderSummary\\OrderSummary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FERNANDONOVACKIFREIT\\Desktop\\Cursos\\Curso C#\\Exercícios\\OrderSummary\\OrderSummary\\OrderSummary.csproj": {
+    "C:\\Users\\fernando.freitas\\Desktop\\Estágio - Estudos\\C#\\-C-Course-Exercises\\OrderSummary\\OrderSummary\\OrderSummary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FERNANDONOVACKIFREIT\\Desktop\\Cursos\\Curso C#\\Exercícios\\OrderSummary\\OrderSummary\\OrderSummary.csproj",
+        "projectUniqueName": "C:\\Users\\fernando.freitas\\Desktop\\Estágio - Estudos\\C#\\-C-Course-Exercises\\OrderSummary\\OrderSummary\\OrderSummary.csproj",
         "projectName": "OrderSummary",
-        "projectPath": "C:\\Users\\FERNANDONOVACKIFREIT\\Desktop\\Cursos\\Curso C#\\Exercícios\\OrderSummary\\OrderSummary\\OrderSummary.csproj",
-        "packagesPath": "C:\\Users\\nando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FERNANDONOVACKIFREIT\\Desktop\\Cursos\\Curso C#\\Exercícios\\OrderSummary\\OrderSummary\\obj\\",
+        "projectPath": "C:\\Users\\fernando.freitas\\Desktop\\Estágio - Estudos\\C#\\-C-Course-Exercises\\OrderSummary\\OrderSummary\\OrderSummary.csproj",
+        "packagesPath": "C:\\Users\\fernando.freitas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fernando.freitas\\Desktop\\Estágio - Estudos\\C#\\-C-Course-Exercises\\OrderSummary\\OrderSummary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fernando.freitas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
