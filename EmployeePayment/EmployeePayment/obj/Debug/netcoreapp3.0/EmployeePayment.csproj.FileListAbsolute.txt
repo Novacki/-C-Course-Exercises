@@ -1,0 +1,11 @@
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.0\EmployeePayment.exe
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.0\EmployeePayment.deps.json
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.0\EmployeePayment.runtimeconfig.json
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.0\EmployeePayment.runtimeconfig.dev.json
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.0\EmployeePayment.dll
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.0\EmployeePayment.pdb
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.0\EmployeePayment.csprojAssemblyReference.cache
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.0\EmployeePayment.AssemblyInfoInputs.cache
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.0\EmployeePayment.AssemblyInfo.cs
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.0\EmployeePayment.dll
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.0\EmployeePayment.pdb
