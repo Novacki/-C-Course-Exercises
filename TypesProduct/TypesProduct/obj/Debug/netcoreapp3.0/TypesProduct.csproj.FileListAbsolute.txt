@@ -1,0 +1,11 @@
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\TypesProduct\TypesProduct\bin\Debug\netcoreapp3.0\TypesProduct.exe
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\TypesProduct\TypesProduct\bin\Debug\netcoreapp3.0\TypesProduct.deps.json
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\TypesProduct\TypesProduct\bin\Debug\netcoreapp3.0\TypesProduct.runtimeconfig.json
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\TypesProduct\TypesProduct\bin\Debug\netcoreapp3.0\TypesProduct.runtimeconfig.dev.json
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\TypesProduct\TypesProduct\bin\Debug\netcoreapp3.0\TypesProduct.dll
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\TypesProduct\TypesProduct\bin\Debug\netcoreapp3.0\TypesProduct.pdb
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\TypesProduct\TypesProduct\obj\Debug\netcoreapp3.0\TypesProduct.csprojAssemblyReference.cache
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\TypesProduct\TypesProduct\obj\Debug\netcoreapp3.0\TypesProduct.AssemblyInfoInputs.cache
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\TypesProduct\TypesProduct\obj\Debug\netcoreapp3.0\TypesProduct.AssemblyInfo.cs
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\TypesProduct\TypesProduct\obj\Debug\netcoreapp3.0\TypesProduct.dll
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\TypesProduct\TypesProduct\obj\Debug\netcoreapp3.0\TypesProduct.pdb
