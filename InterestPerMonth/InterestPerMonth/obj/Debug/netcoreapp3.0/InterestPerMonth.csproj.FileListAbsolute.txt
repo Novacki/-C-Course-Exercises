@@ -1,0 +1,11 @@
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\InterestPerMonth\InterestPerMonth\bin\Debug\netcoreapp3.0\InterestPerMonth.exe
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\InterestPerMonth\InterestPerMonth\bin\Debug\netcoreapp3.0\InterestPerMonth.deps.json
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\InterestPerMonth\InterestPerMonth\bin\Debug\netcoreapp3.0\InterestPerMonth.runtimeconfig.json
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\InterestPerMonth\InterestPerMonth\bin\Debug\netcoreapp3.0\InterestPerMonth.runtimeconfig.dev.json
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\InterestPerMonth\InterestPerMonth\bin\Debug\netcoreapp3.0\InterestPerMonth.dll
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\InterestPerMonth\InterestPerMonth\bin\Debug\netcoreapp3.0\InterestPerMonth.pdb
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\InterestPerMonth\InterestPerMonth\obj\Debug\netcoreapp3.0\InterestPerMonth.csprojAssemblyReference.cache
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\InterestPerMonth\InterestPerMonth\obj\Debug\netcoreapp3.0\InterestPerMonth.AssemblyInfoInputs.cache
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\InterestPerMonth\InterestPerMonth\obj\Debug\netcoreapp3.0\InterestPerMonth.AssemblyInfo.cs
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\InterestPerMonth\InterestPerMonth\obj\Debug\netcoreapp3.0\InterestPerMonth.dll
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\InterestPerMonth\InterestPerMonth\obj\Debug\netcoreapp3.0\InterestPerMonth.pdb
