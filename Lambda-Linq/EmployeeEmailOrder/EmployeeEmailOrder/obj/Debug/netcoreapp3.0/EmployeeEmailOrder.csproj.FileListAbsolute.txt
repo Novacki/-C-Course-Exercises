@@ -1,0 +1,11 @@
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\Lambda-Linq\EmployeeEmailOrder\EmployeeEmailOrder\bin\Debug\netcoreapp3.0\EmployeeEmailOrder.exe
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\Lambda-Linq\EmployeeEmailOrder\EmployeeEmailOrder\bin\Debug\netcoreapp3.0\EmployeeEmailOrder.deps.json
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\Lambda-Linq\EmployeeEmailOrder\EmployeeEmailOrder\bin\Debug\netcoreapp3.0\EmployeeEmailOrder.runtimeconfig.json
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\Lambda-Linq\EmployeeEmailOrder\EmployeeEmailOrder\bin\Debug\netcoreapp3.0\EmployeeEmailOrder.runtimeconfig.dev.json
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\Lambda-Linq\EmployeeEmailOrder\EmployeeEmailOrder\bin\Debug\netcoreapp3.0\EmployeeEmailOrder.dll
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\Lambda-Linq\EmployeeEmailOrder\EmployeeEmailOrder\bin\Debug\netcoreapp3.0\EmployeeEmailOrder.pdb
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\Lambda-Linq\EmployeeEmailOrder\EmployeeEmailOrder\obj\Debug\netcoreapp3.0\EmployeeEmailOrder.csprojAssemblyReference.cache
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\Lambda-Linq\EmployeeEmailOrder\EmployeeEmailOrder\obj\Debug\netcoreapp3.0\EmployeeEmailOrder.AssemblyInfoInputs.cache
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\Lambda-Linq\EmployeeEmailOrder\EmployeeEmailOrder\obj\Debug\netcoreapp3.0\EmployeeEmailOrder.AssemblyInfo.cs
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\Lambda-Linq\EmployeeEmailOrder\EmployeeEmailOrder\obj\Debug\netcoreapp3.0\EmployeeEmailOrder.dll
+C:\Users\fernando.freitas\Desktop\Estágio - Estudos\C#\-C-Course-Exercises\Lambda-Linq\EmployeeEmailOrder\EmployeeEmailOrder\obj\Debug\netcoreapp3.0\EmployeeEmailOrder.pdb

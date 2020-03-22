@@ -1,0 +1,6 @@
+Fernando Novacki,nando@novacki.com.br,3000.00
+Fernanda Novacki,nanda@novacki.com.br,3500.00
+Marcos Novacki,marcos@novacki.com.br,5000.00
+Mario Jorge,mario@jorge.com.br,2500.00
+Laudicéia Novacki,ceia@novacki.com.br,7000.00
+Lúcio Novacki,lucio@novacki.com.br,2000.00
